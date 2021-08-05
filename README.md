@@ -1,7 +1,7 @@
 # DF-Gladiator-Placer
 Takes a .txt file of Dwarf Fortress race/skill/equipment combos and creates an AutoHotKey program that creates them in-game, two-by-two, to enable duels.
 
-Formatting should be
+Formatting should be (please see plaintext version; GitHub does not properly detect newlines here)
 
 Race Sex (sex not necessary if the race has man or woman at the end)
 FULL equipment name(order may be swapped with skills or intermingled between several; note that gauntlets don't count as pairs)
